@@ -1,4 +1,4 @@
 MovieExport
 ===========
 
-For gephi
+Gephi is a plug-in.
